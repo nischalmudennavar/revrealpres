@@ -1,0 +1,18 @@
+<svg 
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="6.431in" height="2.292in">
+<path fill-rule="evenodd"  stroke="rgb(2, 2, 2)" stroke-width="0px" stroke-linecap="butt" stroke-linejoin="miter" opacity="0.859" fill="rgb(0, 116, 107)"
+ d="M154.500,-0.000 C239.828,-0.000 309.000,69.172 309.000,154.500 C309.000,239.828 239.828,309.000 154.500,309.000 C69.172,309.000 -0.000,239.828 -0.000,154.500 C-0.000,69.172 69.172,-0.000 154.500,-0.000 Z"/>
+<path fill-rule="evenodd"  stroke="rgb(2, 2, 2)" stroke-width="0px" stroke-linecap="butt" stroke-linejoin="miter" opacity="0.859" fill="rgb(109, 207, 246)"
+ d="M408.500,25.000 C480.573,25.000 539.000,83.427 539.000,155.500 C539.000,227.573 480.573,286.000 408.500,286.000 C336.427,286.000 278.000,227.573 278.000,155.500 C278.000,83.427 336.427,25.000 408.500,25.000 Z"/>
+<path fill-rule="evenodd"  stroke="rgb(2, 2, 2)" stroke-width="0px" stroke-linecap="butt" stroke-linejoin="miter" opacity="0.859" fill="rgb(246, 142, 86)"
+ d="M614.500,55.000 C670.005,55.000 715.000,100.891 715.000,157.500 C715.000,214.109 670.005,260.000 614.500,260.000 C558.995,260.000 514.000,214.109 514.000,157.500 C514.000,100.891 558.995,55.000 614.500,55.000 Z"/>
+<text kerning="auto" font-family="Myriad Pro" fill="rgb(0, 0, 0)" font-size="24px" x="92px" y="183px"> <tspan dy="-33.8px"><tspan font-size="24px" font-family="Monaco" fill="#FFFFFF">Creative&#32;</tspan><tspan x="92px" dy="1.2em">Thinking</tspan> </tspan>
+</text>
+<text kerning="auto" font-family="Myriad Pro" fill="rgb(0, 0, 0)" font-size="24px" x="349px" y="183px"> <tspan dy="-33.8px"><tspan font-size="24px" font-family="Monaco" fill="#FFFFFF">Design</tspan><tspan x="349px" dy="1.2em">&#32;Thinking</tspan> </tspan>
+</text>
+<text kerning="auto" font-family="Myriad Pro" fill="rgb(0, 0, 0)" font-size="24px" x="566px" y="191px"> <tspan dy="-62.6px"><tspan font-size="24px" font-family="Monaco" fill="#FFFFFF">Making&#32;</tspan><tspan x="566px" dy="1.2em">Stuff&#32;</tspan><tspan x="566px" dy="1.2em">Happen</tspan> </tspan>
+</text>
+<text kerning="auto" font-family="Myriad Pro" fill="rgb(0, 0, 0)" font-size="30px" x="814px" y="151px"><tspan font-size="30px" font-family="Monaco" fill="#F68E56">Done&#33;</tspan></text>
+</svg>
